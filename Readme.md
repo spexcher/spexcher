@@ -1,7 +1,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0072F7&width=900&lines=Hey+there+I+am+Gourab+Modak+%2Can+aspiring+competitive+programmer.;I+am+enthusiastic+about+discrete+mathematics+and+statistics.;I+do+web+development+in+MERN+stack.+++App+development+in+IOS+platform+only.+;+When+I+am+not+working%2C+I+like+to+write+English+essays%2C+;Run%2C+play+chess+and+learn+French.)](https://git.io/typing-svg)
-<img title="a title" alt="Alt text" src="banner (2).jpg">
 
 <h1 align="center">Hi 👋, I'm Gourab Modak</h1>
 
@@ -12,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/gourabmodak28" target="blank"><img src="https://img.shields.io/twitter/follow/gourabmodak28?logo=twitter&style=for-the-badge" alt="gourabmodak28" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio website](https://github.com/gauravthedeveloper/my-portfolio)
+- 🔭 I’m currently working on [My Portfolio website](https://spexcher.vercel.app)
 
 - 🌱 I’m currently learning **Advanced Data Structures and algorithms and analysis of algorithms**
 
 - 💬 Ask me about **React JS , MERN Stack , Next JS, Django.**
 
-- 📫 How to reach me **gourabmodak28092003@gmail.com**
+- 📫 How to reach me **spexcher@gmail.com**
 
 - ⚡ Fun fact **I sing Opera and some think my tenor is awesome.**
 
@@ -26,12 +25,12 @@
 <p align="left">
 <a href="https://twitter.com/gourabmodak28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gourabmodak28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gourabmodak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gourabmodak/" height="30" width="40" /></a>
-<a href="https://fb.com/gourabmodak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gourabmodak07" height="30" width="40" /></a>
-<a href="https://instagram.com/gauravshines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravshines" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sectumsempra07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sectumsempra07" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sectumsempra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sectumsempra07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sectumsempra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sectumsempra07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sectumsempra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sectumsempra07" height="30" width="40" /></a>
+<a href="https://fb.com/spexcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spexcher" height="30" width="40" /></a>
+<a href="https://instagram.com/spexcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spexcher" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/spexcher" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sectumsempra07" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/spexcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sectumsempra07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/spexcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sectumsempra07" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/spexcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="spexcher" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
