@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/gourabmodak28" target="blank"><img src="https://img.shields.io/twitter/follow/gourabmodak28?logo=twitter&style=for-the-badge" alt="gourabmodak28" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio website](https://spexcher.vercel.app)
+- 🔭 This is  [My Portfolio website](https://spexcher.vercel.app)
 
 - 🌱 I’m currently learning **Advanced Data Structures and algorithms and analysis of algorithms**
 
