@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0072F7&width=900&lines=Hey+there+I+am+Gourab+Modak+%2Can+aspiring+competitive+programmer.;I+am+enthusiastic+about+discrete+mathematics+and+statistics.;I+do+web+development+in+MERN+stack.+++App+development+in+IOS+platform+only.+;+When+I+am+not+working%2C+I+like+to+write+English+essays%2C+;Run%2C+play+chess+and+learn+French.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0072F7&width=900&lines=Hey+there+I+am+Gourab+Modak+%2Can+aspiring+competitive+programmer.;I+am+enthusiastic+about+discrete+mathematics+and+statistics.;I+do+web+development+in+Django.+++App+development+in+IOS+platform+only.+;+When+I+am+not+working%2C+I+like+to+write+English+essays%2C+;Run%2C+play+chess+and+learn+French.)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Gourab Modak</h1>
 
