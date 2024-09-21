@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourab Modak</h1>
 <h3 align="center">Dedicated Computer Science student with a strong foundation in software engineering and machine learning. Skilled in developing and optimizing ML models, conducting robust data analysis, and leading technical projects. Proven team player and mentor with proficiency in Data Structures and Algorithms (DSA) and a solid academic background.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spexcher&label=Profile%20views&color=0e75b6&style=flat" alt="spexcher" />5000 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spexcher&label=Profile%20views&color=0e75b6&style=flat" alt="spexcher" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spexcher" alt="spexcher" /></a> </p>
 
