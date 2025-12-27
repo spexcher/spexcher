@@ -1,71 +1,60 @@
-<h1 align="center">Hi 👋, I'm Gourab Modak</h1>
 
-<h3 align="center">Computer Science Student at JGEC & Data Science Scholar at IIT Madras</h3>
+ 
+ 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spexcher&label=Profile%20views&color=0e75b6&style=flat" alt="spexcher" />
-  <img src="https://github-profile-trophy.vercel.app/?username=spexcher&theme=flat&column=7" alt="trophies" />
-</p>
+# Hi 👋, I'm Gourab Modak
 
----
+### Full Stack Developer & Data Science Enthusiast | B.Tech CSE @ JGEC | BS Data Science @ IIT Madras
 
-### 🚀 About Me
-- 🎓 **Dual Degree Path:** B.Tech in CSE at **Jalpaiguri Government Engineering College** & BS in Data Science at **IIT Madras**.
-- 💡 **Specialization:** Software Engineering, Machine Learning, and High-Performance Algorithm Design.
-- 🏆 **Competitive Programmer:** Solved **1,500+ problems** across LeetCode, CodeChef (3-Star), and Codeforces. 
-- 🤖 **Researcher:** Former Intern at **IIT Mandi**, focusing on EEG signal processing and Parkinson’s disease detection.
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=spexcher&label=Profile%20views&color=0e75b6&style=flat" alt="spexcher" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spexcher" alt="spexcher" /></a> </p>
 
-### 🛠️ Languages and Tools
+- 🔭 I’m currently working on **Full-stack web applications and AI/ML research.**
 
-**Languages:**
+- 🌱 I’m currently learning **Advanced Deep Learning and Scalable System Design.**
+
+- 👯 I’m looking to collaborate on **Open Source projects related to Competitive Programming tools or ML pipelines.**
+
+- 🤝 I’m looking for help with **Advanced Algorithm optimization and Large Language Models.**
+
+- 💬 Ask me about **DSA, Competitive Programming (CodeChef 3-Star), React.js, or Python/ML.**
+
+- 📫 How to reach me **gourabmodak28092003@gmail.com**
+
+- ⚡ Fun fact **I have solved over 1,500+ DSA problems across various platforms!**
+
+- 👨‍💻 All of my projects are available at **[github.com/spexcher](https://github.com/spexcher)**
+
+- 📝 I regularly write articles on **[Competitive Programming & Tech](https://github.com/spexcher)**
+
+- 📄 Know about my experiences **[on my LinkedIn Profile](https://linkedin.com/in/gourabmodak)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-</p>
-
-**Frameworks & AI/ML:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
-
----
-
-### 🏆 Top Achievements
-- **TCS CodeVita Season 13:** Global Rank **211**.
-- **NPTEL Silver Medalist:** Top 5% Nationwide in Data Structures & Computing.
-- **Voyager Robotics:** 2nd Prize Winner at **Kshitij, IIT Kharagpur**.
-- **Competitive Exams:** 98%ile in WBJEE, 94.2%ile in JEE Mains.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spexcher&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="spexcher" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spexcher&show_icons=true&locale=en&theme=vision-friendly-dark" alt="spexcher" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spexcher&theme=vision-friendly-dark" alt="spexcher" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="left">
+<a href="https://github.com/spexcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="spexcher" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gourabmodak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourabmodak" height="30" width="40" /></a>
-<a href="https://leetcode.com/spexcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spexcher" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/spexcher" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spexcher" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/spexcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="spexcher" height="30" width="40" /></a>
-<a href="https://kaggle.com/spexcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="spexcher" height="30" width="40" /></a>
 </p>
 
----
-⭐ From [Gourab Modak's Portfolio](https://github.com/spexcher)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spexcher&show_icons=true&locale=en&layout=compact" alt="spexcher" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spexcher&show_icons=true&locale=en" alt="spexcher" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spexcher&" alt="spexcher" /></p>
